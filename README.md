@@ -26,9 +26,8 @@
 
 This repository contains all the information required to replicate and continue this project. Explanation for the folders that require it follow. 
 
-
 <p align="center">
-  <img src="/img/Aspose.Words.683b0c1f-4907-4142-a98b-40bf5d2dcf74.007.jpeg"/>
+  <img src="https://user-images.githubusercontent.com/86809275/124991420-a27a7e00-e00f-11eb-856e-48e4276ffc73.jpeg"/>
 </p>
 
 *‘**Final Code**’ contains the final Arduino and Python files required to run the project.*  
@@ -57,11 +56,12 @@ This repository contains all the information required to replicate and continue 
 ‘**Requirements**’ contains the in-depth decision making and process behind the selection of parts. Contains the minimum requirements, technical details, and purchase recommendations drafted to meet the goals set out in the proposal. 
 
 <p align="center">
-  <img src="/img/lowlevel.jpeg"/>
+  <img src="https://user-images.githubusercontent.com/86809275/124991451-af976d00-e00f-11eb-9759-9e707e7b99f6.jpeg"/>
 </p>
 
+
 <p align="center">
-  <img src="/img/fritz.jpeg"/>
+  <img src="https://user-images.githubusercontent.com/86809275/124991491-bc1bc580-e00f-11eb-93c6-e415d396030f.jpeg"/>
 </p>
 
 ...return to [`projects.ibrahimsaid.ca`](https://projects.ibrahimsaid.ca/) or [`ibrahimsaid.ca`](https://www.ibrahimsaid.ca/).
