@@ -1,7 +1,5 @@
 # IMU Sports Monitor Repo 🏅
 
-## [Full Repo HERE](https://github.com/1brahimsaid)
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/86809275/124991339-837bec00-e00f-11eb-92dd-d242558830a5.jpeg"/>
 </p>
