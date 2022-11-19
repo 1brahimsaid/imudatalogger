@@ -6,7 +6,7 @@
 
 ## What is a [Wearable IMU Sports Monitor 🏅](https://github.com/1brahimsaid/imudatalogger)?
 
-Wearable sports monitor that collects, stores, analyzes movement data to suggest ways to improve sports performance and prevent injury. The general purpose of this project was to provide low-cost, modular, and simple sports analysis to all who require it, that will fit their needs.
+Wearable sports monitor that collects, stores, and analyzes movement data to suggest ways to improve sports performance and prevent injury. The general purpose of this project was to provide low-cost, modular, and simple sports analysis to all who require it, that will fit their needs.
 
 <p align="center">
   <a href="https://github.com/1brahimsaid/imudatalogger"><img src="https://user-images.githubusercontent.com/86809275/202873036-05c68231-b7d3-44bd-8173-8218aa6b4d1f.png"/>
